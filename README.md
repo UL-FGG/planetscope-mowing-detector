@@ -10,13 +10,13 @@ Copyright (c) 2026 Ana Potočnik Buhvald, Krištof Oštir
 
 Paket je pripravljen kot ponovljiv delovni postopek za uporabnike, ki imajo dostop do PlanetScope podatkov prek obstoječe Planet/Sentinel Hub BYOC kolekcije.
 
-Za izbrano območje in leto paket:
+Paket za izbrano območje in leto:
 
 1. izdela kvadratno območje obdelave iz središčne koordinate,
 2. obreže državno masko travnikov na območje obdelave,
 3. iz obstoječe BYOC kolekcije zgradi `PlanetCube.nc`,
 4. izračuna vegetacijske indekse `NDVI`, `NDRE` in `GNDVI`,
-5. zazna možne košnje samo znotraj maske travnikov,
+5. s časovnimi vrstami in dodatnimi atributi zazna možne košnje samo znotraj maske travnikov,
 6. pripravi rastrske produkte in katalog zaznanih segmentov,
 7. omogoči interaktivni pregled dogodkov in ročno potrditev ali zavrnitev zaznave.
 
