@@ -94,7 +94,7 @@ AOI_SIZE = 1000
 START_DATE = "2025-03-01"
 END_DATE = "2025-10-31"
 
-COLLECTION_ID = "8523c8f2-e983-4a9c-8e69-88365d946cbf"
+COLLECTION_ID = " " <- dodajte številko collection_id
 
 USE_GRASSLAND_MASK = True
 GRASSLAND_SOURCE = Path("data/grassland/travniki_RABA_GERK_20260831.gpkg")
