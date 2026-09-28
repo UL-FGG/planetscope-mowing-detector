@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local credentials and secrets
+.env
+*.env
+credentials*
+secrets*
+
+# Generated area data
+data/area_*/
+data/*_20*/
+
+# Large or licensed geospatial data: commit only when redistribution is allowed.
+# data/grassland/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/

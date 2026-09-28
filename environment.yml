@@ -1,0 +1,54 @@
+name: mowing
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+
+  # Jupyter and interactive notebooks
+  - jupyterlab
+  - notebook
+  - ipykernel
+  - ipywidgets
+  - ipympl
+
+  # Planet API access and HTTP utilities
+  - planet
+  - requests
+  - tqdm
+
+  # Geospatial vector/raster processing
+  - geopandas
+  - pyproj
+  - shapely
+  - rasterio
+  - rioxarray
+  - fiona
+  - pyogrio
+  - sentinelhub
+
+  # Arrays, tables, time series, and NetCDF cubes
+  - numpy
+  - pandas
+  - xarray
+  - dask
+  - netcdf4
+  - h5netcdf
+  - h5py
+  - bottleneck
+
+  # Plotting and interactive exploration
+  - matplotlib
+  - plotly
+  - seaborn
+  - folium
+  - contextily
+
+  # Algorithm development and validation
+  - scipy
+  - scikit-learn
+  - statsmodels
+
+  # Development quality
+  - pytest
+  - ruff
