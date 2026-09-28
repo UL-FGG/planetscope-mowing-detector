@@ -2,10 +2,6 @@
 
 Orodje za pripravo podatkovnih časovnih kock PlanetScope, zaznavanje možnih košenj na travnikih in ročni pregled zaznanih dogodkov.
 
-Avtorja: **Ana Potočnik Buhvald, Krištof Oštir**  
-Univerza v Ljubljani, Fakulteta za gradbeništvo in geodezijo, 2026  
-Copyright (c) 2026 Ana Potočnik Buhvald, Krištof Oštir
-
 ## Namen
 
 Paket je pripravljen kot ponovljiv delovni postopek za uporabnike, ki imajo dostop do PlanetScope podatkov prek obstoječe Planet/Sentinel Hub BYOC kolekcije.
@@ -263,9 +259,9 @@ Zato je ročni pregled dogodkov pomemben del postopka.
 
 Ana Potočnik Buhvald, Krištof Oštir. 2026. Detektor košenj PlanetScope. Univerza v Ljubljani, Fakulteta za gradbeništvo in geodezijo.
 
-## Avtorstvo In Pravice
+## Avtorstvo in pravice
 
 Avtorja: Ana Potočnik Buhvald, Krištof Oštir  
 Institucija: Univerza v Ljubljani, Fakulteta za gradbeništvo in geodezijo  
 Leto: 2026  
-Copyright (c) 2026 Ana Potočnik Buhvald, Krištof Oštir
+Copyright (c) 2026 UL FGG
