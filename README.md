@@ -122,7 +122,7 @@ REBUILD_DETECTION = True
 
 Za ponoven zagon brez ponovne obdelave jih nastavi na `False`.
 
-## Dostop Do Podatkov
+## Dostop do podatkov
 
 Paket uporablja Sentinel Hub credentials:
 
@@ -245,17 +245,6 @@ data/<AREA_ID>/masks/grasslands_clipped.gpkg
 
 Detekcija uporablja to lokalno masko. Piksli zunaj travnikov so v končnih rasterjih zapisani kot `NoData`.
 
-## Pomembne Opombe Za GitHub
-
-Pred javno objavo preveri:
-
-- ali je dovoljeno javno objaviti priloženo masko travnikov,
-- ali je dovoljeno javno objaviti morebitne testne PlanetScope kocke ali izhodne podatke,
-- da v repozitoriju ni credentials, API ključev ali zasebnih datotek,
-- da so veliki podatki po potrebi odstranjeni iz repozitorija ali upravljani ločeno.
-
-PlanetScope podatkov praviloma ni priporočljivo javno objavljati, če licenca tega izrecno ne dovoljuje.
-
 ## Omejitve
 
 Detekcija je algoritemska ocena. Rezultati so odvisni od:
@@ -267,8 +256,6 @@ Detekcija je algoritemska ocena. Rezultati so odvisni od:
 - izbranih pragov detektorja.
 
 Zato je ročni pregled dogodkov pomemben del postopka.
-
-Če `PlanetCube.nc` nima kanala `blue`, naravni RGB prikaz ni mogoč. V tem primeru pregledovalnik uporabi približek iz razpoložljivih kanalov.
 
 ## Citiranje
 
