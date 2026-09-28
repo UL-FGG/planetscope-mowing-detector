@@ -1,6 +1,6 @@
-# Detektor Košenj PlanetScope
+# Detektor košenj na posnetkih PlanetScope
 
-Orodje za pripravo časovnih kock PlanetScope, zaznavanje možnih košenj na travnikih in ročni pregled zaznanih dogodkov.
+Orodje za pripravo podatkovnih časovnih kock PlanetScope, zaznavanje možnih košenj na travnikih in ročni pregled zaznanih dogodkov.
 
 Avtorja: **Ana Potočnik Buhvald, Krištof Oštir**  
 Univerza v Ljubljani, Fakulteta za gradbeništvo in geodezijo, 2026  
